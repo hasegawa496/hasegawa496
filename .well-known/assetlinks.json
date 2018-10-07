@@ -1,1 +1,9 @@
-Hello world!
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.ahlaboratory.systeminfochecker",
+    "sha256_cert_fingerprints":
+    ["D4:E2:D6:0C:BA:01:B8:B7:F4:E7:6B:57:D7:43:A2:2E:F3:57:79:AE:68:1A:AF:05:32:5F:96:8E:E2:4D:CC:2A"]
+  }
+}]
